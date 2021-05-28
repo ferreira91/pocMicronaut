@@ -1,5 +1,10 @@
 micronaut:
   application:
-    name: pocMicronaut
+    name: demo
   config-client:
     enabled: true
+kubernetes:
+  client:
+    config-maps:
+      includes:
+        - demo

@@ -1,2 +1,2 @@
 
-rootProject.name="pocMicronaut"
+rootProject.name="demo"
